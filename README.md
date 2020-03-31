@@ -13,3 +13,7 @@ Reasons:
 
 
 ```
+x <- 5
+y <- 'hello'
+
+This is an `inline` code
